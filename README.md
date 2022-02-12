@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, Anupam Mitra</h1>
+<h1 align="center">Hi 👋,I am Anupam Mitra</h1>
 <h3 align="center">MERN Stack Web Developer and Web Designer </h3>
 
 ![Profile views](https://gpvc.arturio.dev/anupamapan9) 
