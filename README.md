@@ -27,21 +27,7 @@ Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/anupam.mitra.apan9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anupam.mitra.apan9" height="30" width="40" /></a>
-
-
-<a href="https://twitter.com/ApanAnupam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ApanAnupam" height="30" width="40" /></a>
-
-
-<a href="https://linkedin.com/in/anupam-mitra-a37694205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anupam-mitra-a37694205" height="30" width="40" /></a>
-
-
-<a href="https://codepen.io/anupam-mitra-apan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="anupam-mitra-apan" height="30" width="40" /></a>
-
-<a href="https://instagram.com/anuapan9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anuapan9" height="30" width="40" /></a>
-
-
-<a href="https://dribbble.com/apan09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="apan09" height="30" width="40" /></a>
+<a href="https://fb.com/anupam.mitra.apan9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anupam.mitra.apan9" height="30" width="40" /></a><a href="https://twitter.com/ApanAnupam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ApanAnupam" height="30" width="40" /></a><a href="https://linkedin.com/in/anupam-mitra-a37694205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anupam-mitra-a37694205" height="30" width="40" /></a><a href="https://codepen.io/anupam-mitra-apan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="anupam-mitra-apan" height="30" width="40" /></a><a href="https://instagram.com/anuapan9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anuapan9" height="30" width="40" /></a><a href="https://dribbble.com/apan09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="apan09" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
