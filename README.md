@@ -1,4 +1,4 @@
-![I am Anupam Mitra](https://github.com/anupamapan9/anupamapan9/blob/main/myBannar.jpg)
+![I am Anupam Mitra](https://github.com/anupamapan9/anupamapan9/blob/main/The%20MERN%20Stack.jpg)
 
 
 
