@@ -47,7 +47,7 @@ Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anupamapan9)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anupam's github activity graph](https://activity-graph.herokuapp.com/graph?username=anupamapan9&theme=dracula)](https://github.com/anupamapan9/github-readme-activity-graph)
 
 <p align="center">
    <table>
@@ -61,4 +61,4 @@ Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
      </tr>
    </table>
 </p> 
-[![Anupam's github activity graph](https://activity-graph.herokuapp.com/graph?username=anupamapan9&theme=dracula)](https://github.com/anupamapan9/github-readme-activity-graph)
+
